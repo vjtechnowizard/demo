@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React JS @Vj Techno Wizard
+          Learn MERN Stack @Vj Techno Wizard
         </a>
       </header>
     </div>
